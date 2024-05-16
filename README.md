@@ -2,7 +2,7 @@
 
 # Hi, I'm Precious 👋
 
-I'm a community manager at Whogohost and Tublian, with a passion for technical writing, product development, and coding with HTML, CSS, JavaScript (React), and Python (Flask). 
+I'm a community manager at Tublian and Enyata, with a passion for technical writing, product development, and coding with HTML, CSS, JavaScript (React), and Python (Flask). 
 
 ## About Me
 
